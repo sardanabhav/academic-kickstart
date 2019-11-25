@@ -48,7 +48,7 @@ social:
   link: https://twitter.com/bhavsardana
 - icon: linkedin
   icon_pack: fab
-  link: https://linkedin/bhavsardana
+  link: https://linkedin.com/in/bhavsardana
 - icon: github
   icon_pack: fab
   link: https://github.com/sardanabhav
