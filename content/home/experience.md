@@ -24,7 +24,11 @@ date_format = "Jan 2006"
   location = "Charlotte"
   date_start = "2018-09-01"
   date_end = ""
-  description = """
+  description = "• Preforming data pre-processing, feature extraction and combining data from multiple sources to make data readable for analytics software like SAS, SPSS etc.
+• Cleaning, de-identification and de-duping sensitive data for using R, tidy-verse ecosystem.
+• Creating and optimizing data pipelines for analytics and modeling in R for cleaning, normalizing, scaling and converging data from heterogeneous sources and landing data in data lake.
+• Fetching and combining data from various sources using SQL as per requirements given by researchers.
+• Creating comparison groups using various techniques including propensity score matching."
   Responsibilities include:
   
   * Analysing
@@ -39,7 +43,33 @@ date_format = "Jan 2006"
   location = "Charlotte"
   date_start = "2018-08-01"
   date_end = ""
-  description = ""
+  description = "• Part of the data science team at Energy Informatics and Blocakchain Lab.
+  • Building predictive models for forecasting in the Energy Industry.
+  • Developing techniques for accurate point and probabilistic forecast of Electricity Load, Wind Power Generation, Electricity Prices and Solar Power Generation
+  
+  Publications:
+  • Natural Gas Demand Forecasting Using Conjugate Gradient Neural Network and Gradient Boosting Algorithms - In progress
+  • Electricity Price Forecasting using Advanced Machine Learning Techniques - Master Thesis - In Progress
+
+  Forecasting Competitions:
+  • nPower Forecasting Competition 2018 - Rank 1
+  • BigDEAL Forecasting Competition 2018 (BFCom2018) - Rank 2 in qualifying round and Rank 12 in Final round
+  
+  Other projects:
+  • Ensemble wind power forecasting using NWP data"
+
+[[experience]]
+  title = "Exchange Student Researcher"
+  company = "Karlsruhe Institute of Technology"
+  company_url = ""
+  location = "Karlsruhe, Germany"
+  date_start = "2019-05-01"
+  date_end = "2019-08-01"
+  description = "
+  • Project - ”European Power systems modelling”.
+  • To explore and compare existing open-source models of the European power grid with propriety models built at the Institute for Industrial Production(IIP - Institut für Industriebetriebslehre und Industrielle Produktion).
+  • PyPSA and PyPSA-Eur setup and deployed for comparison.
+  • Different aspects considered in the comparison included input data, line loading, locational marginal prices (LMPs) and reactive feed in power."
 
 [[experience]]
   title = "Systems Engineer - Data Scientist"
@@ -48,7 +78,13 @@ date_format = "Jan 2006"
   location = "Mumbai"
   date_start = "2014-09-01"
   date_end = "2018-07-31"
-  description = ""
+  description = "
+  • Implemented statistical models for detecting relationship among various counters at base radio station.
+  • Implemented outlier detection and prediction model using Seasonal hybrid ESD(Twitter's anomaly detetction) algorithm for analyzing system’s health and provide valuable recommendations.
+  • Built data visualization for UI interface for end users.
+  • Hands on experience with ETL processes for data from 3G and 4G nodes using ENIQ tool.
+  • Built data simulator tool for testing ENIQ for improving the ETL process.
+  • Tools and techniques: stepwise regression (scikit-learn), ANOVA, matplotlib, seaborn, python, Shell Scripting"
 
 
 +++
