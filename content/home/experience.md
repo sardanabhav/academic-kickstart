@@ -42,12 +42,15 @@ date_format = "Jan 2006"
   * Part of the data science team at Energy Informatics and Blocakchain Lab.
   * Building predictive models for forecasting in the Energy Industry.
   * Developing techniques for accurate point and probabilistic forecast of Electricity Load, Wind Power Generation, Electricity Prices and Solar Power Generation
+
   Publications:
   * Natural Gas Demand Forecasting Using Conjugate Gradient Neural Network and Gradient Boosting Algorithms - In progress
   * Electricity Price Forecasting using Advanced Machine Learning Techniques - Master Thesis - In Progress
+
   Forecasting Competitions:
   * nPower Forecasting Competition 2018 - Rank 1
   * BigDEAL Forecasting Competition 2018 (BFCom2018) - Rank 2 in qualifying round and Rank 12 in Final round
+
   Other projects:
   * Ensemble wind power forecasting using NWP data"""
 
