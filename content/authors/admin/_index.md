@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Masters Student, Applied Energy
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -22,8 +22,9 @@ bio: My research interests include load forecasting, wind power forecasting, ele
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
+- Computational Intelligence
 - Energy Analytics
+- Forecasting and Time Series Analysis
 - Optimization
 
 education:
@@ -42,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:bsardana@uncc.edu".
+  link: 'mailto:sardana.bhav@gmail.com'  # For a direct email link, use "mailto:bsardana@uncc.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/bhavsardana
@@ -68,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Bhav Sardana is a Master Student in Applied Energy and Electromechanical Systems at University of North Carolina at Charlotte. His Research interests include Energy analytics, energy forecasting and applications of machine learning techniques to solve problems in the energy domain. He is actively seeking opportunities for working as an energy researcher.
+I am a Data Scientist specializing in time series forecasting. I have extensive experience building classical and machine learning models for highly accurate forecasting of electric load, price, wind power generation and solar power generation. I have experience working in startup environment. I am enthusiastic about building well-designed data based software applications.
