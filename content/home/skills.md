@@ -13,25 +13,41 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-
+  
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "100%"
-
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Languages"
+  description = "Python, R, MATLAB"
+  
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "Data Analytics"
+  description = "Anomaly Detection, Timeseries Analysis, Predictive Analysis, Forecasting, Data Mining"  
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Database"
+  description = "MySQL, MS SQL, PostgreSQL, Sybase IQ"
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
-  
+  description = "Hypothesis testing, Regression Models, K-NN"
 
+[[feature]]
+  icon = "chart-pie"
+  icon_pack = "fas"
+  name = "Visualization"
+  description = "Tableau, matplotlib, seaborn, plotly, dash"
+
+[[feature]]
+  icon = "file-code"
+  icon_pack = "fas"
+  name = "Modelling Tools"
+  description = "pandas, numpy, tensorflow, scikit-learn, scipy, keras, adtk, pyswarms"
 
 +++
