@@ -14,7 +14,7 @@ role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: University of North Carolina at Charlotte
+- name: zenergy.ai
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
